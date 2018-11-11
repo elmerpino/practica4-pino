@@ -99,3 +99,4 @@
 
 <?php require_once(VIEW_PATH.'footer.inc.php'); ?>
 <script src="<?php echo $url;?>personas.js"></script>
+<script src="index.js"></script>	
